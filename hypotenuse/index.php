@@ -37,7 +37,7 @@ if (isset($calculationWasRequested)) {
       <form method='GET' action=<?php echo $_SERVER['PHP_SELF']; ?>>
         <button type='submit' name='calculateRequest'>Calculate</button>
       </form>
-      <p>Nombre - Cedula - N1013</p>
+      <p>Jesús Nava - 27.266.066 - N1013</p>
     </div>
   </main>
 </body>
